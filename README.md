@@ -23,16 +23,16 @@
 
 - ⚡ Fun fact **I ❤️ sports and I'm a brown belt in Karate🥋**
 
-### 📕**Latest Blog Posts**
+### 📕**Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = "on"](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
+- [CRAWLER #02 — Horizon Workrooms, Tesla Bot, LGPD, Jupyter no VSCode, SIGGRAPH e Muito Mais](https://medium.com/programacaodinamica/d0f9e48b6086)
+- [Como usar o Google Colab para analisar dados?](https://medium.com/programacaodinamica/76e93a78bc01)
+- [O caso das vacinas vencidas](https://medium.com/programacaodinamica/eee5272bb014)
+- [Cientistas de dados serão substituídos por Inteligência Artificial?](https://medium.com/programacaodinamica/3dc4d0e32d7e)
 <!-- BLOG-POST-LIST:END -->
 
 
-<h3 align="left">🔗 Connect with me:</h3>
+### 🔗 Connect with me:
 <p align="left">
 <a href="https://twitter.com/kizzy_terra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kizzy_terra" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kizzyterra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kizzyterra" height="30" width="40" /></a>
