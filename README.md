@@ -4,7 +4,7 @@
 
 🙋🏾‍♀️ I'm currently a independent data scientist and tech content creator. I create awesome videos to teach programming, data science and artificial intelligence at [Programação Dinâmica](https://www.youtube.com/programacaodinamica) with [hallpaz](https://github.com/hallpaz). We achieved more than 2 million views, reaching more than 50k students monthly, in our tech videos at Youtube. I'm also a data science mentor at [ALFORRIAH](https://alforriah.com).
 
-- 🔭 I’m currently working on [ALFORRIAH](https://alforriah.com)
+- 🔭 I’m currently working on [Programação Dinâmica](https://www.youtube.com/programacaodinamica) and [ALFORRIAH](https://alforriah.com)
 - 🌱 I’m currently learning **about how to improve my teaching skills**
 - 👯 I’m looking to collaborate on **data science and AI Ethics projects**
 - 📝 I regularly write articles on [https://medium.com/programacaodinamica](https://medium.com/programacaodinamica)
