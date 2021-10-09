@@ -22,17 +22,6 @@
 - [Cientistas de dados serão substituídos por Inteligência Artificial?](https://medium.com/programacaodinamica/3dc4d0e32d7e)
 <!-- BLOG-POST-LIST:END -->
 
-#### 🔗 Connect with me:
-
-<p align="left">
-<a href="https://twitter.com/kizzy_terra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kizzy_terra" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kizzyterra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kizzyterra" height="30" width="40" /></a>
-<a href="https://instagram.com/kizzy_terra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kizzy_terra" height="30" width="40" /></a>
-<a href="https://medium.com/@kizzyterra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kizzyterra" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/programacaodinamica" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/programacaodinamica" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kizzyterra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kizzyterra" height="30" width="40" /></a>
-</p>
-
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
@@ -46,6 +35,16 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kterra&label=Profile%20views&color=0e75b6&style=flat" alt="kterra" /> </p>
 
+#### 🔗 Connect with me:
+
+<p align="left">
+<a href="https://twitter.com/kizzy_terra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kizzy_terra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kizzyterra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kizzyterra" height="30" width="40" /></a>
+<a href="https://instagram.com/kizzy_terra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kizzy_terra" height="30" width="40" /></a>
+<a href="https://medium.com/@kizzyterra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kizzyterra" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://youtube.com/programacaodinamica" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/programacaodinamica" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kizzyterra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kizzyterra" height="30" width="40" /></a>
+</p>
 <!--
 How to make the bio gif ?
 
